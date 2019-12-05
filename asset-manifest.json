@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/crudeapp/static/css/main.d498bfb3.chunk.css",
+    "main.js": "/crudeapp/static/js/main.6705d698.chunk.js",
+    "main.js.map": "/crudeapp/static/js/main.6705d698.chunk.js.map",
+    "runtime~main.js": "/crudeapp/static/js/runtime~main.ae4e7002.js",
+    "runtime~main.js.map": "/crudeapp/static/js/runtime~main.ae4e7002.js.map",
+    "static/css/2.b341d5e0.chunk.css": "/crudeapp/static/css/2.b341d5e0.chunk.css",
+    "static/js/2.7c28b6e3.chunk.js": "/crudeapp/static/js/2.7c28b6e3.chunk.js",
+    "static/js/2.7c28b6e3.chunk.js.map": "/crudeapp/static/js/2.7c28b6e3.chunk.js.map",
+    "index.html": "/crudeapp/index.html",
+    "precache-manifest.3aba6eb2ed0419fff5e54ddc3e28c4b7.js": "/crudeapp/precache-manifest.3aba6eb2ed0419fff5e54ddc3e28c4b7.js",
+    "service-worker.js": "/crudeapp/service-worker.js",
+    "static/css/2.b341d5e0.chunk.css.map": "/crudeapp/static/css/2.b341d5e0.chunk.css.map",
+    "static/css/main.d498bfb3.chunk.css.map": "/crudeapp/static/css/main.d498bfb3.chunk.css.map",
+    "static/media/mdb.css": "/crudeapp/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "/crudeapp/static/media/fa-solid-900.f14c3b2f.ttf"
+  }
+}
