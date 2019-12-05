@@ -1,16 +1,20 @@
 {
+  "homepage": "https://NouraHassan12.github.io/crudeapp/",
   "name": "your-app",
   "version": "0.1.0",
   "private": true,
   "// If You want to install mdbreact from our GitLab repository, please replace '4.19.1' with gitURL provided here ->": "git+https://oauth2:<YOUR-TOKEN-GOES-HERE>@git.mdbootstrap.com/mdb/react/re-pro.git",
   "dependencies": {
+    "gh-pages": "^2.1.1",
     "mdbreact": "4.19.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1",
-    "react-router-dom": "^5.0.1"
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "3.0.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
